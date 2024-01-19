@@ -1,5 +1,5 @@
 <h1 align="left">󠁝󠁝Hola, me llamo Virginia 👋</h1>
-<h3 align="left">Desarrolladora web (páginas web, aplicaciones web, e-commerce)</h3> <br>
+<h3 align="left">Desarrolladora web (páginas web, aplicaciones web, tiendas online)</h3> <br>
 
 <h2 align="left">Tecnologías:</h2> 
 
